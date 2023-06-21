@@ -1,8 +1,0 @@
-{
-  "name": "floating-castle",
-  "version": "0.0.1",
-  "main": "index.js",
-  "repository": "git@github.com:johnyatesiv/floating-castle.git",
-  "author": "johnyatesiv <john.yatesiv@gmail.com>",
-  "license": "MIT"
-}
